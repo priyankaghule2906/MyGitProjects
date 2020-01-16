@@ -10,7 +10,7 @@ public class StringChild {
 
 		ArrayList list;
 		
-		LinkedList l;
+	
 		
 	
 	}
